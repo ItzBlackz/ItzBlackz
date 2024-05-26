@@ -2,7 +2,7 @@
 
 Experienced FiveM developer specializing in Lua scripting.
 
-- 🔨 Currently developing for [Westkust Roleplay](https://discord.gg/wsk).
+- 🔨 Currently developing for [Codex Arcade](https://discord.gg/cdx-arcade).
 
 - 🌱 Expanding my knowledge about HTML, CSS and Javascript.
 
