@@ -2,7 +2,7 @@
 
 Experienced FiveM developer specializing in Lua scripting.
 
-- 🔨 Currently developing for [Codex Arcade](https://discord.gg/cdx-arcade).
+- 🔨 FiveM freelance developer.
 
 - 🌱 Expanding my knowledge about HTML, CSS and Javascript.
 
