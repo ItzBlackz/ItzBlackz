@@ -6,9 +6,7 @@ Experienced FiveM developer specializing in Lua scripting.
 
 - 🌱 Expanding my knowledge about HTML, CSS and Javascript.
 
-- 🤝 For high-end FiveM resources or custom orders contact me through [here](https://discord.gg/YHbWQUMA73).
-
-- 💬 Contact me easily via [LM Development](https://discord.gg/YHbWQUMA73).
+- 📩 For contact please add my discord user: itsblackz_
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
