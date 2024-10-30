@@ -2,11 +2,11 @@
 
 Experienced FiveM developer specializing in Lua scripting.
 
-- 🔨 FiveM freelance developer.
+- 🔨 Currently developing for LM Development.
 
 - 🌱 Expanding my knowledge about HTML, CSS and Javascript.
 
-- 📩 For contact please add my discord user: itsblackz_
+- 📩 For high-end FiveM resources or custom orders contact me through [here](https://discord.gg/hdbZGMcJKD).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
